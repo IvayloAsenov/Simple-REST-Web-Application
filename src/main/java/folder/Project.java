@@ -4,11 +4,11 @@ public class Project {
 
     private final String projects;
 
-    public Project(String content){
+    public Project(String content) {
         this.projects = content;
     }
 
-    public String getProjects(){
+    public String getProjects() {
         return projects;
     }
 }
